@@ -12,7 +12,7 @@ This project is a **machine learning application** designed to predict the price
 ## 📂 Project Structure
 ```
 📁 Aircraft-Price-Prediction
-│── notebook.ipynb        # Jupyter Notebook for model training & analysis
+│── workspace.ipynb        # Jupyter Notebook for model training & analysis
 │── App.py                # Streamlit app for price prediction
 │── dataset.csv           # Aircraft dataset
 │── airplane_price_model.pkl  # Trained ML model
@@ -25,7 +25,7 @@ This project is a **machine learning application** designed to predict the price
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/lex4s/updated-Aircraft-Price-Prediction.git
-cd Aircraft-Price-Prediction
+cd updated-Aircraft-Price-Prediction
 ```
 
 ### 2️⃣ Install Dependencies
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run Jupyter Notebook (For Model Training & Analysis)
 ```sh
-jupyter notebook workspace.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 ### 4️⃣ Run the Streamlit App
