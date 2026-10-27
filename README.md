@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is a **machine learning application** designed to predict the price of aircraft based on key features such as production year, range, fuel consumption, capacity, and maintenance costs. The model is trained using a **Random Forest Regressor** and is deployed with a **Streamlit web app**.
- 
+  
 ## 🚀 Features
 - **Data Analysis & Visualization**: Explore aircraft data with detailed insights.
 - **Machine Learning Model**: Predicts aircraft prices using trained `RandomForestRegressor`.
